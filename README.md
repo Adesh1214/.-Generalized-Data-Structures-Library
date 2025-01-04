@@ -1,4 +1,4 @@
-# .-Generalized-Data-Structures-Library
+# Generalized-Data-Structures-Library
 Technology: C++ Programming
 • This project is considered as a library which contains generic implementations of all major types of data structure.
 
